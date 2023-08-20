@@ -1,0 +1,4 @@
+.calculator{background-color: bisque;max-width: 250px;}
+button{padding: 18px;background-color: rgb(108, 201, 21);border-radius: 50%;color:white;}
+.display{padding:20px 32px;font-size: larger;border:2px solid black;max-width: 170px;}
+button:hover{background-color: aquamarine;}
